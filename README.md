@@ -1,1 +1,1 @@
-# htmlemailtemp
+# html email template for Cobit
